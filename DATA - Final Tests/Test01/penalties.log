@@ -1,0 +1,22 @@
+Table 1: Penalty values
+
+Name                  | Calculated | Given | Difference
+========================================================
+UNSCHEDULED           |          0 |     0 |          0
+ROOMCAPACITY          |          4 |     4 |          0
+MINIMUMWORKINGDAYS    |          0 |     0 |          0
+CURRICULUMCOMPACTNESS |          0 |     0 |          0
+ROOMSTABILITY         |          1 |     1 |          0
+OBJECTIVE             |          5 |     5 |          0
+
+
+Table 2: Description of penalty names
+
+Name                  | Description
+================================================================
+UNSCHEDULED           | Unscheduled lectures
+ROOMCAPACITY          | Total violated room capacity
+MINIMUMWORKINGDAYS    | Total violation of minimum working days
+CURRICULUMCOMPACTNESS | Number of secluded courses
+ROOMSTABILITY         | Number of room changes
+OBJECTIVE             | Total penalty of the solution

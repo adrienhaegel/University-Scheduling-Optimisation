@@ -1,0 +1,35 @@
+In class TimeSlot
+
+.
+.
+.
+
+
+
+public int TSIndex(){//returns the index integer of this TS (Monday morning =0, Monday afternoon = 1, ..)
+	return currentday*nbperiod+(currentperiod+1);
+		
+	}
+	
+	public boolean TSUpdate(){//increase the TimeSlot for the next time. Returns false friday afternoon.
+	if (currentperiod+1 < nbperiod){
+			currentperiod+=1;
+			return true;
+		}
+		else if (currentday+1 <nbdays) {
+			currentday+=1;
+			currentperiod=0;
+			return true;
+		} 
+		else{
+			return false;
+		}
+		
+		
+	}
+	
+	public String toString(){//toString
+		return "Day : " + currentday + " Slot : " + currentperiod;	
+	}
+}	
+		

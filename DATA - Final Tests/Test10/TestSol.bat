@@ -1,0 +1,2 @@
+Judge  ./ Solution.sol
+pause
