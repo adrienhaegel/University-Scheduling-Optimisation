@@ -11,7 +11,8 @@ The goal was to optimize an university timetable. Our solution is written in Jav
 This project has been done by Maria Albert Gimeno and Adrien Haegel.
 </strong>
 </p>
-
+</br>
+ <br>
 <h4> Problem </h4>
 The problem is described in the "Problem Description" folder.
 </br>
@@ -19,10 +20,12 @@ The problem is described in the "Problem Description" folder.
 <h4>Presentation and report</h4>
 Our report on this project is in the report folder.
 All the explanations about this algorithm and analysis of results are there. 
-
+</br>
+ <br>
 <h4>DATA</h4>
 The "DATA" folder contains the raw data, and "DATA - Final test" also contains the solutions
-
+</br>
+ <br>
 <h4>Code</h4>
 All the code is given in "Code_Gimeno_Haegel".
 
