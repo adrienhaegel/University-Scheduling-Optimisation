@@ -11,11 +11,12 @@ The goal was to optimize an university timetable. Our solution is written in Jav
 This project has been done by Maria Albert Gimeno and Adrien Haegel.
 </strong>
 </p>
-<p>
+
 <h4> Problem </h4>
 The problem is described in the "Problem Description" folder.
-</p>
-<h4>Presentation and report<h4>
+</br>
+ <br>
+<h4>Presentation and report</h4>
 Our report on this project is in the report folder.
 All the explanations about this algorithm and analysis of results are there. 
 
