@@ -1,14 +1,20 @@
 # University-Scheduling-Optimisation
 Optimising a scheduling problem with meta heuristics (Greedy search/ALNS)
-
+<p>
 <strong>
-This project was part of a competition in DTU (Denmark Technical University), and ranked first our of 20 teams.
-The goal was to optimize an university timetable. Our solution is written in Java, and implements a greedy search. All the parameters have been optimized for the given data. Heuristics allow to find in a few minutes a good solution to a problem that could not be solved otherwise. This project has been done by Maria Albert Gimeno and Adrien Haegel.
+This project was part of a competition in DTU (Denmark Technical University), and ranked first out of 20 teams.
+The goal was to optimize an university timetable. Our solution is written in Java, and implements a greedy search (GRASP, LNS and ALNS). All the parameters have been optimized for the given data. Heuristics allow to find in a few minutes a good solution to a problem that could not be solved otherwise. 
+</p>
 </strong>
-
-*** Problem ***
+<p>
+<strong>
+This project has been done by Maria Albert Gimeno and Adrien Haegel.
+</strong>
+</p>
+<p>
+<h2> Problem </h2>
 The problem is described in the "Problem Description" folder.
-
+</p>
 *** Presentation and report ***
 Our report on this project is in the report folder.
 All the explanations about this algorithm and analysis of results are there. 
